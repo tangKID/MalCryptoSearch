@@ -1,5 +1,3 @@
----
-
 # 基于 LLM 引导的恶意样本加密行为自动化追踪系统
 
 **Malware Crypto-Behavior Analysis Platform**
